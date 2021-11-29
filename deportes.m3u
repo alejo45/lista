@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AR | DeporTV" tvg-logo="https://cdn.mitvstatic.com/channels/ar_dxtv_m.png" group-title="Argentina",AR | DeporTV
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/137
+#EXTINF:-1 tvg-id="" tvg-name="CH| FOX SPORTS 1 HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png" group-title="Chile",CH| FOX SPORTS 1 HD
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/302
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 1 SD Arg" tvg-logo="http://51.222.43.170:36995/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="Deportes",AR | FOX SPORTS 1 SD Arg
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17716
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 1 HD Arg" tvg-logo="http://51.222.43.170:36995/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="Deportes",AR | FOX SPORTS 1 HD Arg
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17717
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2 SD Arg" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-sports-2_m.png" group-title="Deportes",AR | FOX SPORTS 2 SD Arg
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17718
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2 HD Arg" tvg-logo="http://51.222.43.170:36995/images/b336db89cb4b972292807308605e2a66.png" group-title="Deportes",AR | FOX SPORTS 2 HD Arg
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17719
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3 SD Arg" tvg-logo="http://51.222.43.170:36995/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="Deportes",AR | FOX SPORTS 3 SD Arg
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17720
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3 Hd Arg" tvg-logo="http://51.222.43.170:36995/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="Deportes",AR | FOX SPORTS 3 Hd Arg
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17721
+#EXTINF:-1 tvg-id="" tvg-name="DE | Fox sports Premiun HD Ligero" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZZ4iCDaoppE0aGP-lA--AcdGJeHu2oOH4IerpBFgInte2SNPzVOG-VUJ4vk-axDN3MaQ&usqp=CAU" group-title="Deportes",DE | Fox sports Premiun HD Ligero
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17722
+#EXTINF:-1 tvg-id="" tvg-name="DE | Fox Sports Premium 1080" tvg-logo="https://vivotvhd.com/img/cha/1553.gif" group-title="Deportes",DE | Fox Sports Premium 1080
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17723
+#EXTINF:-1 tvg-id="" tvg-name="AR | DIRECTV SPORT 2" tvg-logo="http://51.222.43.170:36995/images/ee3102c1c51a4bf53e43cfa41f800c89.jpg" group-title="Deportes",AR | DIRECTV SPORT 2
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17725
+#EXTINF:-1 tvg-id="" tvg-name="AR | DIRECTV SPORTS PLUS" tvg-logo="http://51.222.43.170:36995/images/94d859458d7f7e7e83fed8c3e71850b8.png" group-title="Deportes",AR | DIRECTV SPORTS PLUS
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17726
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1" tvg-logo="http://51.222.43.170:36995/images/d36ee471443ae0fb4d65a8a8606f6614.png" group-title="Deportes",AR | ESPN 1
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17727
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1 HD" tvg-logo="http://51.222.43.170:36995/images/d36ee471443ae0fb4d65a8a8606f6614.png" group-title="Deportes",AR | ESPN 1 HD
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17728
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2" tvg-logo="http://51.222.43.170:36995/images/7a081b5e6217d335a87992a553d155e7.png" group-title="Deportes",AR | ESPN 2
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17729
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2 HD" tvg-logo="http://51.222.43.170:36995/images/7a081b5e6217d335a87992a553d155e7.png" group-title="Deportes",AR | ESPN 2 HD
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17730
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 3 Arg" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-3_m.png" group-title="Deportes",AR | ESPN 3 Arg
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17731
+#EXTINF:-1 tvg-id="" tvg-name="DE | ESPN  1 SUR FHD" tvg-logo="http://51.222.43.170:36995/images/3702ec66f444e925d0bac08b1eb654c1.png" group-title="Deportes",DE | ESPN  1 SUR FHD
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17732
+#EXTINF:-1 tvg-id="" tvg-name="DE | ESPN  2 SUR FHD" tvg-logo="http://51.222.43.170:36995/images/7a081b5e6217d335a87992a553d155e7.png" group-title="Deportes",DE | ESPN  2 SUR FHD
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17733
+#EXTINF:-1 tvg-id="" tvg-name="DE | ESPN 3 SUR FHD" tvg-logo="http://51.222.43.170:36995/images/dd272cae52a07e92471763b8b6222fb6.png" group-title="Deportes",DE | ESPN 3 SUR FHD
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17734
+#EXTINF:-1 tvg-id="" tvg-name="DE | TyC Sports SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQKDTPVdiRtb2a1EY5dvoA_nsqZfVThLP3kgf57atec1i03ElPlNGtfmDbS3Q2ON52Bme-VZaPV9ee8uszwD0-YSI4snxqcVhmpQ&usqp=CAU&ec=45732301" group-title="Deportes",DE | TyC Sports SD
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17735
+#EXTINF:-1 tvg-id="" tvg-name="DE | TNT Sports SD" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh4Xoyskq-XbqzphvBrsEpkoscRnlOq-CDUiz5inw=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes",DE | TNT Sports SD
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17736
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS" tvg-logo="https://static-s.aa-cdn.net/img/ios/1269273307/c2ebc4b4deaa6c6201b1c6f88bd2c4ad?v=1" group-title="Deportes",AR | TNT SPORTS
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17737
+#EXTINF:-1 tvg-id="" tvg-name="AR | TyC Sports" tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="Deportes",AR | TyC Sports
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17739
+#EXTINF:-1 tvg-id="" tvg-name="AR | TyC Sports Argentina" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tyc-sports_m.png" group-title="Deportes",AR | TyC Sports Argentina
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17740
+#EXTINF:-1 tvg-id="" tvg-name="CH | FOX SPORTS 1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-sports_m.png" group-title="Deportes",CH | FOX SPORTS 1
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17744
+#EXTINF:-1 tvg-id="" tvg-name="CH | FOX SPORTS 2" tvg-logo="http://51.222.43.170:36995/images/b336db89cb4b972292807308605e2a66.png" group-title="Deportes",CH | FOX SPORTS 2
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17745
+#EXTINF:-1 tvg-id="" tvg-name="CO | Win Sports" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/win_sports_co.jpg" group-title="Deportes",CO | Win Sports
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17746
+#EXTINF:-1 tvg-id="" tvg-name="PE | GOL PERU" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_mze_2cz9a53r1alrxN2V_hj6D6QNbbAuRIg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Deportes",PE | GOL PERU
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17747
+#EXTINF:-1 tvg-id="" tvg-name="PE | MOVISTAR DEPORTES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.Y_aHNvRJD4.jpg" group-title="Deportes",PE | MOVISTAR DEPORTES
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17748
+#EXTINF:-1 tvg-id="" tvg-name="PY | Tigo Sport" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQEVfes6jHoFIw/company-logo_200_200/0?e=2159024400&v=beta&t=uNhUXCinBZaS5WFRg-8f31LZq5rtuAXiqwZVrCk0tM8" group-title="Deportes",PY | Tigo Sport
+http://jokertv.vip:25461/CarlosFlores/ULTRATV/17749
